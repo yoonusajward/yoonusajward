@@ -1,18 +1,18 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/yoonus-ajward-461064239/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:yoonusajward@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="yoonusajward_81790" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com/users/81790" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
   <a href="https://web.facebook.com/yoonus.ajward" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
   <a href="https://x.com/yoonusajward27" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
 
@@ -20,55 +20,22 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Full Stack Developer** with a focus on building innovative and efficient web and mobile applications. I love to solve problems through code and am always keen to learn new technologies.
 
-### 🔭 I’m currently working on:
-- **[GearUp](https://github.com/yoonusajward/gearup)** – An online tech store built with **React** for the frontend.
-- Developing a **Task Tracker** application using **Laravel**, **Filament**, and **Livewire** with **MySQL** as the database.
-  
-### 🌱 I’m currently learning:
-- Expanding my knowledge in **Laravel**, **Filament**, and **Livewire** for building dynamic web applications.
-- Diving deeper into **AI and Machine Learning** with a focus on **Python** and **TensorFlow/PyTorch**.
-- Enhancing my skills in **Cloud Computing** and **DevOps** practices.
+## 🎓 About Me
 
-### 👯 I’m looking to collaborate on:
-- **Open-source projects** related to web development, **AI**, and **mobile applications**.
-- Innovative **frontend** and **backend** development projects.
-  
-### 🤔 I’m looking for help with:
-- Exploring more about **advanced algorithms** and **system design**.
-- **Improving performance** in full-stack applications, specifically for real-time features.
-
-### 💬 Ask me about:
-- **Web Development**, especially **React.js**, **Vue.js**, **Node.js**, and **Laravel**.
-- My experiences with **Kotlin** and **Android Development**.
-- **AI Integrations** and **Machine Learning** with a focus on **GPT models**.
-- **Best practices** in clean code and **software engineering principles**.
+- 🎓 Graduated with First-Class Honours in Computer Science from APIIT Sri Lanka (University of Staffordshire).
+- 💻 Passionate about building innovative web and mobile applications.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/yoonusajward/).
+- 🚀 Interested in collaborating on impactful and creative software solutions.
 
 ### 📫 How to reach me:
 - Email: [yoonusajward@gmail.com](mailto:yoonusajward@gmail.com)
 - LinkedIn: [Yoonus Ajward](https://www.linkedin.com/in/yoonus-ajward-461064239/)
 
-### 😄 Pronouns:
-- He/Him
-
-### ⚡ Fun fact:
-- I built a mobile application called **[TripTuner](https://github.com/yoonusajward/TripTuner-TravelPlan-MobileAppKotlin)** that helps travellers plan adventure itineraries in Sri Lanka, using **Kotlin**, **GPT-2**, and **Firebase**!
-
----
-
-🔧 Technologies & Tools I use:
-
-- **Languages**: JavaScript, Python, Kotlin, PHP, C#, Java
-- **Frontend**: React, Vue.js, HTML, CSS, TailwindCSS
-- **Backend**: Node.js, Express.js, Laravel, WordPress, PHP
-- **Databases**: MongoDB, MySQL, Firebase
-- **Mobile**: Kotlin, Android Studio
-- **AI/ML**: TensorFlow, PyTorch, GPT-2, Python
-
 ---
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
@@ -150,27 +117,17 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Full 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yoonusajward&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonusajward&show_icons=true&locale=en&layout=compact" alt="yoonusajward" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoonusajward&show_icons=true&locale=en" alt="yoonusajward" /></p>
-
 ---
 
-📈 My GitHub Stats:
+###
 
-![Yoonus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoonusajward&show_icons=true&count_private=true&hide=prs&theme=dark)
+<h3 align="center">📊 My Statistics</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoonusajward&show_icons=true&count_private=true&hide=prs&theme=dark" alt="Yoonus' GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonusajward&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 ---
 
