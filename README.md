@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Full 
 - 🚀 Interested in collaborating on impactful and creative software solutions.
 
 ### 📫 How to reach me:
-- Email: [yoonusajward@gmail.com](mailto:yoonusajward@gmail.com)
+- Email: [yoonusajward@gmail.com](mailto:yoonusajward27@gmail.com)
 - LinkedIn: [Yoonus Ajward](https://www.linkedin.com/in/yoonus-ajward-461064239/)
 
 ---
