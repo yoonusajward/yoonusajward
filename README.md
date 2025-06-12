@@ -125,15 +125,4 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** and **Full 
 
 ---
 
-<h3 align="center">📊 My GitHub Statistics</h3>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yoonusajward&show_icons=true&count_private=true&hide=prs&theme=dark&cache_seconds=3600" alt="Yoonus' GitHub Stats" />
-
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonusajward&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
----
-
 Thank you for visiting my profile! Feel free to browse my repositories, raise issues, or reach out with questions. I’m always eager to collaborate on exciting projects and contribute to the developer community! 🚀
